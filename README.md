@@ -1,6 +1,6 @@
 # Snap Price bot
 
-Snap Price bot is a telegram bot which lets users chat with a Grok AI agent to clarify exactly which product they want, then automatically searches Amazon and Flipkart via an n8n workflow so you can compare live prices side-by-side. It also includes a Python script to fetch historical price data for deeper insight.
+Snap Price bot is a telegram bot which lets users chat with a Groq AI agent to clarify exactly which product they want, then automatically searches Amazon and Flipkart via an n8n workflow so you can compare live prices side-by-side. It also includes a Python script to fetch historical price data for deeper insight.
 
 #Instructions
 
