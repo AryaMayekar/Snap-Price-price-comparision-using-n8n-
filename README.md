@@ -15,6 +15,7 @@ Snap Price bot is a telegram bot which lets users chat with a Groq AI agent to c
      ngrok http 5000
      ```  
    - Copy the generated https:// URL and paste it into the final HTTP Request nodes of the n8n workflow (also dont forgot to add /scrape for amazon and /scrapeFlipkart for flipkart at the end of the url).
+   - Also make sure to change the serp api keys in the first HTTP Request nodes(add your own key, mine got exhausted)
 
 2. Import the n8n workflow  
    - Go to your n8n web editor (e.g. n8n.cloud).  
