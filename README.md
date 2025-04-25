@@ -22,3 +22,4 @@ Snap Price bot is a telegram bot which lets users chat with a Groq AI agent to c
    - Select Workflows > Import from File.  
    - Choose the `n8n price comparison.json` file from the repo.  
    - Activate or execute the workflow to start comparing prices.
+- After doing all of the above steps go on **telegram** and search for Snapprice_bot and in the chat of Snapprice_bot type /start and then you can start comparisonsof products from amazon and flipkart (**Note:** You can create your own telegram bot just make sure to change API key and chat id to your own bot API key and chat id in telegram nodes) 
